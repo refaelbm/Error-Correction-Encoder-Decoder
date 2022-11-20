@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : ECC_ENC_DEC
+Version: O-2018.06-SP4
+Date   : Tue Dec 28 13:26:29 2021
+****************************************
+
+Library(s) Used:
+
+    slow (File: /users/agnon/pp2021/benmaorr/Desktop/verilogEncDec-main/EncDec_D/EncDec_D_lib/hdl/DC/DC/LibraryFiles/db/slow.db)
+
+Number of ports:                          481
+Number of nets:                          2162
+Number of cells:                         1770
+Number of combinational cells:           1472
+Number of sequential cells:               294
+Number of macros/black boxes:               0
+Number of buf/inv:                        534
+Number of references:                     107
+
+Combinational area:              39883.536441
+Buf/Inv area:                    11456.121727
+Noncombinational area:           23284.800095
+Macro/Black Box area:                0.000000
+Net Interconnect area:         1023171.981094
+
+Total cell area:                 63168.336535
+Total area:                    1086340.317630
+1

@@ -1,0 +1,32 @@
+ 
+****************************************
+check_design summary:
+Version:     O-2018.06-SP4
+Date:        Tue Dec 28 13:26:29 2021
+****************************************
+
+                   Name                                            Total
+--------------------------------------------------------------------------------
+Inputs/Outputs                                                     18
+    Unconnected ports (LINT-28)                                    18
+--------------------------------------------------------------------------------
+
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[19]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[18]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[17]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[16]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[15]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[14]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[13]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[12]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[11]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[10]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[9]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[8]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[7]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[6]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[5]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[4]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[1]' is not connected to any nets. (LINT-28)
+Warning: In design 'ECC_ENC_DEC', port 'PADDR[0]' is not connected to any nets. (LINT-28)
+1
