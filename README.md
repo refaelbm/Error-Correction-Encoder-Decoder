@@ -4,9 +4,9 @@
 
 In this project we covered the full process of creating an ECC encoder & decorder module by doing a design, verification and synthesis of the modules.
 
-Program Languages: Verilog, Matlab
+**Program Languages:** Verilog, Matlab
 
-Backend Tools: Design Compiler(DC)   
+**Backend Tools:** Design Compiler(DC)   
 
 ## Design Scope:
 
