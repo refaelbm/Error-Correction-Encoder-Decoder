@@ -6,7 +6,7 @@ In this project we covered the full process of creating an ECC encoder & decorde
 
 Program Languages: Verilog, Matlab
 
-Backend Tools: DC   
+Backend Tools: Design Compiler(DC)   
 
 Design Scope:
 
