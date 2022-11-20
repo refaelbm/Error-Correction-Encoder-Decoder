@@ -41,5 +41,4 @@ Verification Scope:
 
 Synthesis scope:
 
-  Running DC(Design Compiler) to ensure the design meets the following constarins:
-  Frequency, clock uncertainty, transition time, delay, area    
+  Running DC(Design Compiler) to ensure the design meets the following constarins: Frequency, clock uncertainty, transition time, delay, area    
