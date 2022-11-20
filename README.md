@@ -17,10 +17,12 @@ Design Scope:
  The decoder cannot correct or detect more than two errors in the data. We assume the noisy channel cannot flip more than two bits
 
  Parity bits:
+ 
  Algorithem parity bit using the Hamming Code Hc=0 when the H is the wanted matrix ,c is the vector of the data with the parity bits.
- The parity bit get created by using AND gates that connected to the data we want to send
+ The parity bit get created by using AND gates that connected to the data we want to send.
  The amount of information bits and pairty bits show in the table:
- ![image](https://user-images.githubusercontent.com/94614385/202894195-7a4d5575-58ea-4112-9001-f5a57f86857a.png)
+ 
+ ![image](https://user-images.githubusercontent.com/94614385/202894332-eae66deb-e110-46ba-a71a-796f570fda4a.png)
 
 
 
